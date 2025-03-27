@@ -1,0 +1,1 @@
+# pang-bad-lang-bot
